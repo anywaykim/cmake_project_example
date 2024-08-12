@@ -1,0 +1,13 @@
+# ctrl+shift+p : 커멘드팔렛
+# ctrl+p : 파일 이동 (네비게이션. 파일검색창에 파일이름 입력하면 열 수 있음)
+# ctrl+d : 같은 단어를 선택한 커서 추가
+# F7     : cmake build
+# ctrl+F7 : cmake 디버그실행
+
+// 언어별색깔표시명령: >Change Language Mode 
+// 띄어쓰기 스페이스바 간격: >Indent Using Spaces
+// ctrl+'+' : 화면확대
+// ctrl+'-' : 화면축소
+
+1-2 강좌 40:07 
+vs2019 x86 빌드kit 선택부분 안뜸. 그래서 해당 빌드방식 안됨. 해결 요망. --> 해결 완. 영상보면됨.
